@@ -3,7 +3,12 @@
 ## Description -
 This project is an AI-powered cybersecurity threat detection system that analyzes failed logins, packet sizes, and request frequency to identify potential threats.
 
-## Installation -
+## Features 
+1) AI-based threat detection.
+2) Analyzes failed logins and network requests.
+3) Supports data preprocessing and model training.
+
+## Installation 
 a) Using Google Colab:
 1. Open Google Colab.
 2. Upload the project files to your Google Drive.
@@ -16,15 +21,11 @@ b) Using PyCharm:
    ```sh
    pip install -r requirements.txt
    ```
-## Usage -
+## Usage 
 1. Preprocess the data using `data_preprocessing.ipynb`.
 2. Train the model using `app.py`.
 3. Evaluate and analyze the threat detection results.
    
-## Features -
-1) AI-based threat detection.
-2) Analyzes failed logins and network requests.
-3) Supports data preprocessing and model training.
 
 ## Project_Images  
 
@@ -35,7 +36,7 @@ b) Using PyCharm:
 ![Postman Test](Project_Images/API_tested_in_Postman.jpg)  
 
 
-## Folder Structure -
+## Folder Structure 
 ```
 Cybersecurity Project/
 │── App/
@@ -52,8 +53,8 @@ Cybersecurity Project/
 │── README.md
 │── data_preprocessing.ipynb
 ```
-## Contributors -
+## Contributors 
 Developed by: Rahul Bhoyar
 
-## Copyright Notice -
+## Copyright Notice 
 This project is for portfolio purposes only. Unauthorized use, modification, or distribution is not allowed. 
