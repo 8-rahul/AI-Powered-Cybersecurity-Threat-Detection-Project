@@ -14,7 +14,7 @@ b) Using PyCharm:
 2. Open the project in PyCharm.
 3. Create a virtual environment and install dependencies using:
    ```sh
-   pip install -r requirements.txt'
+   pip install -r requirements.txt
    ```
 ## Usage -
 1. Preprocess the data using `data_preprocessing.ipynb`.
