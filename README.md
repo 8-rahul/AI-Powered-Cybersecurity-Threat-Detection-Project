@@ -1,6 +1,6 @@
 ## AI-Powered Cybersecurity Threat Detection
 
-## Description -
+## Description 
 This project is an AI-powered cybersecurity threat detection system that analyzes failed logins, packet sizes, and request frequency to identify potential threats.
 
 ## Features 
