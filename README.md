@@ -26,6 +26,15 @@ b) Using PyCharm:
 2) Analyzes failed logins and network requests.
 3) Supports data preprocessing and model training.
 
+## Project_Images  
+
+### Flask Server Running  
+![Flask Server](Project_Images/API_running_in_Flask.jpg)  
+
+### Testing with Postman  
+![Postman Test](Project_Images/API_tested_in_Postman.jpg)  
+
+
 ## Folder Structure -
 ```
 Cybersecurity Project/
@@ -36,6 +45,9 @@ Cybersecurity Project/
 │   ├── cleaned_data.csv
 │── Model/
 │   ├── cybersecurity_model.pkl
+│── Project_Images/
+│   ├── API_running_in_Flask.jpg
+│   ├── API_tested_in_Postman.jpg
 │── data_preprocessing.ipynb
 │── .gitignore
 ```
